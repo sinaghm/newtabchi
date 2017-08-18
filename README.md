@@ -1,45 +1,16 @@
-# [TabLiqGar V.3 ](https://telegram.me/CerNerTabliqGar)
-
-* * *
-
-
-# نصب ربات
-```sh
-cd $HOME
-git clone https://github.com/CodeLua/TabLiqGar.git
-cd TabLiqGar
+tabchi.lua > line 24 > set admin id
+api.lua > line 14 > set admin di
+api.lua > line 11 > set bot id
+api.lua > line 383 > set bot token
+install : 
+new tabchi
+git clone 
 chmod +x install
-chmod +x start
 ./install
 ./start
-# سپس شماره و کد را ارسال کنید :)
-# اجرای اتولانچ:
-cd TabLiqGar
-chmod 777 screen
-chmod +x install
-./install
-screen ./screen
-```
-#نصب ربات api
+./tabchi-0.sh
+install screen : 
+chmod +x auto.sh
+install bot :
+nohup ./api
 
-```sh
-ابتدا توکن ربات خود را در فایل apistart در خط 4 قرار دهید و سپس دستور زیر را وارد کنید 
-nohup ./apistart
-```
-### نصب آسان
-```sh
-git clone https://github.com/CodeLua/TabLiqGar.git && cd TabLiqGar && chmod +x install && chmod +x start && ./install && ./start
-
-نصب آ سان اتولانچ
-
-git clone https://github.com/CodeLua/TabLiqGar.git && cd TabLiqGar && chmod 777 screen && chmod +x install && ./install screen ./screen
-
-* * *
-```
-# نویسنده!
-
-[Amir](https://telegram.me/CodeLua)
-
-### کانال تیم:
-
-[CerNer Team](https://telegram.me/CerNer_Tm)
