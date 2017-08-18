@@ -8,7 +8,7 @@ serpent = (loadfile "./libs/serpent.lua")()
 -------------------------------
 database = dofile('./libs/redis.lua')
 -------------------------------
-api_id = 406039147
+api_id = 240726111
 local base_api = "https://maps.googleapis.com/maps/api"
 
 config_sudo = {260953712}
